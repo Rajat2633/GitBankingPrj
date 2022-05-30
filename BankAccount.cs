@@ -8,6 +8,10 @@ namespace GitBankingPrj
 {
     class BankAccount
     {
-        public int AccountNumber { get; set; }
+        public int AccountNumber { get; }
+        public BankAccount()
+        {
+            AccountNumber = 123;
+        }
     }
 }
