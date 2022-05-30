@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitBankingPrj", "GitBankingPrj.csproj", "{244D85F0-F9E1-4D96-8A8D-3E1B84B29FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244D85F0-F9E1-4D96-8A8D-3E1B84B29FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D85F0-F9E1-4D96-8A8D-3E1B84B29FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D85F0-F9E1-4D96-8A8D-3E1B84B29FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D85F0-F9E1-4D96-8A8D-3E1B84B29FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FFBBCE-B979-46A1-A490-6C36365D31F2}
+	EndGlobalSection
+EndGlobal
